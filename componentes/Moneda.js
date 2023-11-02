@@ -40,6 +40,7 @@ export default class Moneda extends Component {
             </View>
           </View>
         )
+        
     }
 }
 
